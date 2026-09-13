@@ -1,0 +1,11 @@
+MOLECULE_FILE v2.0
+# 名称: 硫化氢 (H2S), 键角约 92°
+
+[ATOMS]
+0: S 400 320 #FFFF00 20
+1: H 355 280 #FFFFFF 12
+2: H 445 280 #FFFFFF 12
+
+[BONDS]
+0-1: 1
+0-2: 1

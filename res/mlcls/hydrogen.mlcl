@@ -1,0 +1,10 @@
+MOLECULE_FILE v2.0
+# 分子搭建器导出文件
+# 名称: 氢气 (H2)
+
+[ATOMS]
+0: H 380 300 #FFFFFF 12
+1: H 420 300 #FFFFFF 12
+
+[BONDS]
+0-1: 1

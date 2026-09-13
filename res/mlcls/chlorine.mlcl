@@ -1,0 +1,9 @@
+MOLECULE_FILE v2.0
+# 名称: 氯气 (Cl2)
+
+[ATOMS]
+0: Cl 370 300 #90EE90 20
+1: Cl 430 300 #90EE90 20
+
+[BONDS]
+0-1: 1
